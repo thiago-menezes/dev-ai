@@ -1,21 +1,22 @@
-# Ebook: "10 Formas de Usar IA para Programar Mais Rápido"
+# Ebook: "10 Doses de Veneno para Programar Mais Rápido"
 
 ## Objetivo
 
 **Lead Magnet**: Capturar emails de potenciais alunos oferecendo valor antecipado
 
-**Formato**: PDF profissional, 15-20 páginas, design atrativo
+**Formato**: PDF profissional, 15-20 páginas, design atrativo e impactante
 
 ---
 
 ## Estrutura Completa
 
 ### Capa
-- Título principal: **10 Formas de Usar IA para Programar Mais Rápido**
-- Subtítulo: Guia Prático para Desenvolvedores que Querem Multiplicar Sua Produtividade
+- Título principal: **10 Doses de Veneno para Programar Mais Rápido**
+- Subtítulo: O Guia Definitivo para Desenvolvedores que Querem se Tornar Mais Fortes
 - Autores: Thiago Menezes & Rodolfo Pedra
-- Design: Visual moderno com elemento de IA (cérebro digital, circuitos, etc.)
-- Cores: Paleta do curso (a definir após nome/branding)
+- Branding: **Veneno.dev** - O Veneno que Você Precisa para se Destacar
+- Design: Visual forte e impactante com elemento de caveira (skull), cores escuras, tipografia bold
+- Cores: Preto, verde tóxico/neon, branco (paleta venenosa)
 
 ---
 
@@ -41,24 +42,26 @@ Desenvolvedor Backend com X anos de experiência. Especialista em Java, Spring B
 
 ### Página 3: Introdução
 
-#### A Revolução da IA no Desenvolvimento
+#### O Veneno que Você Precisa
 
-Vivemos um momento único na história da programação. Pela primeira vez, desenvolvedores têm acesso a ferramentas de Inteligência Artificial que podem **multiplicar sua produtividade por 10x** — mas apenas se você souber usá-las corretamente.
+No mundo da programação, assim como na academia, existem aqueles que treinam natural e aqueles que usam **veneno** para se destacar.
 
-Este ebook não é sobre deixar a IA fazer tudo por você. É sobre **dominar desenvolvimento** e usar IA como uma ferramenta poderosa para:
+Não estamos falando de atalhos ou trapaças. Estamos falando de **ferramentas poderosas** que multiplicam sua força como desenvolvedor. Assim como um atleta usa suplementos para melhorar performance, você vai usar **IA como veneno** para programar mais rápido, mais forte, melhor.
+
+Este ebook não é sobre deixar a IA fazer tudo por você. É sobre **dominar desenvolvimento** e injetar o veneno certo no momento certo para:
 
 ✓ Escrever código mais rápido (sem sacrificar qualidade)
 ✓ Reduzir tarefas repetitivas e burocráticas
 ✓ Focar no que realmente importa: resolver problemas
 ✓ Aprender mais rápido com exemplos e explicações instantâneas
 
-Nas próximas páginas, você vai descobrir **10 formas práticas** de integrar IA no seu dia a dia como desenvolvedor.
+Nas próximas páginas, você vai descobrir **10 doses de veneno práticas** para injetar no seu workflow diário.
 
-Prepare-se para transformar sua forma de trabalhar.
+**Prepare-se. Você está prestes a ficar mais forte.**
 
 ---
 
-### Forma #1: Commits Automatizados com GitHub Copilot
+### Dose #1: Commits Automatizados com GitHub Copilot
 
 #### O Problema
 Você faz mudanças no código e, na hora do commit, escreve mensagens genéricas como:
@@ -101,7 +104,7 @@ Depois (com IA):
 
 ---
 
-### Forma #2: Design Instantâneo com Stitch
+### Dose #2: Design Instantâneo com Stitch
 
 #### O Problema
 Você tem uma ideia para um site/app, mas:
@@ -143,7 +146,7 @@ Ferramentas como **Stitch** geram layouts profissionais em minutos baseado em pr
 
 ---
 
-### Forma #3: Documentação Automática de Código
+### Dose #3: Documentação Automática de Código
 
 #### O Problema
 Documentar código é:
@@ -213,7 +216,7 @@ Para APIs, IA gera documentação YAML completa:
 
 ---
 
-### Forma #4: Geração de Testes (TDD com IA)
+### Dose #4: Geração de Testes (TDD com IA)
 
 #### O Problema
 Escrever testes é essencial, mas:
@@ -277,7 +280,7 @@ function validateEmail(email) {
 
 ---
 
-### Forma #5: Refatoração Assistida
+### Dose #5: Refatoração Assistida
 
 #### O Problema
 Código legado, bagunçado, difícil de manter.
@@ -344,7 +347,7 @@ const users = data
 
 ---
 
-### Forma #6: Debugging Inteligente
+### Dose #6: Debugging Inteligente
 
 #### O Problema
 Bug no código. Você passa horas debugando, console.log, tentando entender.
@@ -394,7 +397,7 @@ return user?.name ?? 'Guest';
 
 ---
 
-### Forma #7: Criação de User Stories e Planejamento
+### Dose #7: Criação de User Stories e Planejamento
 
 #### O Problema
 Projeto novo. Como quebrar em tarefas? Como organizar?
@@ -460,7 +463,7 @@ Deve ter login e cada usuário vê apenas suas tarefas."
 
 ---
 
-### Forma #8: Otimização de Performance
+### Dose #8: Otimização de Performance
 
 #### O Problema
 Site lento. Não sabe por onde começar para otimizar.
@@ -520,7 +523,7 @@ function ProductList({ products }) {
 
 ---
 
-### Forma #9: Tradução e Internacionalização (i18n)
+### Dose #9: Tradução e Internacionalização (i18n)
 
 #### O Problema
 Aplicação precisa suportar múltiplos idiomas.
@@ -575,7 +578,7 @@ IA traduz arquivos de internacionalização mantendo contexto técnico.
 
 ---
 
-### Forma #10: Code Review Automatizado
+### Dose #10: Code Review Automatizado
 
 #### O Problema
 Pull Request aberto. Ninguém tem tempo para revisar.
@@ -636,25 +639,25 @@ function getActiveUsers(allUsers) {
 
 ---
 
-### Conclusão: Como Começar Hoje
+### Conclusão: Está Pronto para Injetar o Veneno?
 
-Você acabou de descobrir **10 formas práticas** de usar IA para programar mais rápido.
+Você acabou de descobrir **10 doses de veneno práticas** para programar mais rápido e mais forte.
 
 **Mas lembre-se:**
-IA é uma **ferramenta**, não uma substituta.
+Veneno sem treino não funciona. IA é uma **ferramenta**, não uma substituta.
 
-O desenvolvedor que vai se destacar no futuro não é quem deixa a IA fazer tudo, mas quem:
+O desenvolvedor que vai se destacar não é quem deixa a IA fazer tudo, mas quem:
 ✓ Domina os fundamentos (linguagens, frameworks, arquitetura)
-✓ Usa IA para tarefas repetitivas e burocráticas
+✓ Usa IA como veneno para tarefas repetitivas e burocráticas
 ✓ Revisa e melhora código gerado por IA
 ✓ Foca em resolver problemas complexos
 
 **Próximos Passos:**
 
-1. **Escolha 1-2 formas** deste ebook para começar hoje
+1. **Escolha 1-2 doses** deste ebook para injetar hoje mesmo
 2. **Pratique diariamente** - incorpore no seu fluxo
 3. **Documente** - anote o que funciona e o que não funciona
-4. **Compartilhe** - ensine outros desenvolvedores
+4. **Compartilhe** - ensine outros desenvolvedores a usar o veneno certo
 
 ---
 
@@ -686,13 +689,15 @@ O desenvolvedor que vai se destacar no futuro não é quem deixa a IA fazer tudo
 
 ---
 
-### Quer Aprender Mais?
+### Quer Mais Veneno?
 
-Este ebook foi apenas o começo.
+Este ebook foi apenas uma amostra.
 
 Se você quer dominar **desenvolvimento Full Stack com IA** de forma completa, do zero ao avançado, conheça nosso curso:
 
-**[Nome do Curso]**
+**Veneno.dev - Full Stack com IA**
+
+O curso completo que vai te transformar em um desenvolvedor mais forte, mais rápido, mais produtivo.
 
 ✓ 70+ horas de conteúdo prático
 ✓ Frontend (Next.js, React)
@@ -701,9 +706,11 @@ Se você quer dominar **desenvolvimento Full Stack com IA** de forma completa, d
 ✓ Git profissional
 ✓ Docker e Deploy
 ✓ Projetos reais
-✓ Comunidade de suporte
+✓ Comunidade exclusiva
 
-**[CTA: Saber Mais]**
+**Está pronto para injetar o veneno completo?**
+
+**[CTA: Quero o Veneno Completo]**
 
 ---
 
@@ -723,10 +730,12 @@ Se você quer dominar **desenvolvimento Full Stack com IA** de forma completa, d
 
 ### Contracapa
 
-**"IA não vai substituir desenvolvedores.**
-**Desenvolvedores que usam IA vão substituir os que não usam."**
+**"Veneno não substitui treino.**
+**Mas veneno + treino te torna imbatível."**
 
-© 2025 [Nome do Produto]. Todos os direitos reservados.
+**Veneno.dev** - O veneno que você precisa para se destacar.
+
+© 2025 Veneno.dev. Todos os direitos reservados.
 
 ---
 

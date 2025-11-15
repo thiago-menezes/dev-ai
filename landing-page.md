@@ -1,32 +1,33 @@
-# Landing Page - Estrutura e Conteúdo
+# Landing Page Veneno.dev - Estrutura e Conteúdo
 
 ## Objetivo da Landing Page
 
 **Conversão**: Transformar visitantes em alunos (ou leads pré-lançamento)
 
-**Foco**: Demonstrar claramente o diferencial do curso (IA aplicada ao desenvolvimento)
+**Foco**: Demonstrar claramente o diferencial do curso (IA aplicada ao desenvolvimento) com linguagem forte e impactante
 
 ---
 
 ## Estrutura da Página
 
 ### Hero Section (Acima da Dobra)
-**Objetivo**: Capturar atenção em 5 segundos
+**Objetivo**: Capturar atenção em 5 segundos com impacto visual e mensagem forte
 
 #### Headline Principal
 ```
-Desenvolva 10x Mais Rápido com Inteligência Artificial
+O Veneno que Você Precisa para Programar Mais Forte
 ```
 
 **Alternativas para teste A/B**:
-- "De Iniciante a Dev Full Stack com IA em 12 Semanas"
-- "Aprenda a Programar com o Poder da Inteligência Artificial"
-- "Full Stack Developer: O Curso que Ensina Você a Usar IA como um Profissional"
+- "Veneno.dev: O Curso que Vai Te Transformar em Dev Imbatível"
+- "Injete o Veneno. Multiplique Sua Força como Desenvolvedor"
+- "De Iniciante a Dev Full Stack: O Veneno Completo em 12 Semanas"
 
 #### Subheadline
 ```
 Domine Frontend, Backend, Design e Git enquanto aprende a usar IA
-para multiplicar sua produtividade. Sem enrolação, sem lorota.
+como veneno para multiplicar sua produtividade. Sem enrolação, sem lorota.
+Veneno + Treino = Desenvolvedor Imbatível.
 ```
 
 #### CTA Principal
@@ -34,9 +35,11 @@ para multiplicar sua produtividade. Sem enrolação, sem lorota.
 - **Pós-lançamento**: "Matricular Agora por R$ 997" + "Ver Conteúdo Completo" (link secundário)
 
 #### Visual
-- Vídeo de fundo (30s loop): desenvolvedor usando IA, commit automático, design sendo criado
-- **OU** Imagem hero: workspace moderno, telas com código + IA
-- **OU** GIF animado mostrando Copilot gerando commit
+- Logo Veneno.dev com caveira (skull) estilizada
+- Vídeo de fundo (30s loop): desenvolvedor usando IA, commit automático, design sendo criado (com overlay escuro)
+- **OU** Imagem hero: workspace moderno, telas com código + IA, cores escuras com verde neon
+- **OU** GIF animado mostrando Copilot gerando commit com efeito "venenoso"
+- Paleta: Preto, verde tóxico/neon, branco
 
 ---
 
@@ -44,28 +47,29 @@ para multiplicar sua produtividade. Sem enrolação, sem lorota.
 **Objetivo**: Construir credibilidade imediata
 
 #### Elementos
-- **Número de alunos**: "Junte-se a [X+] desenvolvedores que já estão programando com IA"
+- **Número de alunos**: "Junte-se a [X+] desenvolvedores que já injetaram o veneno e estão programando mais forte"
 - **Rating**: ⭐⭐⭐⭐⭐ 4.9/5.0 (se houver avaliações)
 - **Logos**: "Nossos alunos trabalham em:" [logos de empresas, se aplicável]
+- **Tagline**: "Veneno + Treino = Desenvolvedor Imbatível"
 
 ---
 
 ### Problema (Seção 2)
-**Objetivo**: Identificar dores do público
+**Objetivo**: Identificar dores do público com linguagem forte
 
 #### Headline
 ```
-Você está cansado de...
+Você está fraco porque...
 ```
 
 #### Lista de Problemas
-- ✗ Demorar horas para criar um projeto do zero
-- ✗ Não saber design e ter que contratar designers caros
-- ✗ Commits desorganizados e histórico bagunçado no Git
-- ✗ Escrever código lento, linha por linha, sem ajuda
-- ✗ Não saber qual próxima tecnologia aprender
-- ✗ Ficar perdido entre frameworks e linguagens
-- ✗ Assistir cursos que só copiam código sem explicar o porquê
+- ✗ Demora horas para criar um projeto do zero (enquanto outros fazem em minutos)
+- ✗ Não sabe design e tem que contratar designers caros (dinheiro jogado fora)
+- ✗ Commits desorganizados e histórico bagunçado no Git (parece amador)
+- ✗ Escreve código lento, linha por linha, sem ajuda (como se fosse 2010)
+- ✗ Não sabe qual próxima tecnologia aprender (perdido no mar de opções)
+- ✗ Fica perdido entre frameworks e linguagens (confusão total)
+- ✗ Assiste cursos que só copiam código sem explicar o porquê (tempo perdido)
 
 #### Visual
 - Imagens ilustrativas de cada problema (ex: código bagunçado, designer caro, commit genérico)
@@ -73,28 +77,32 @@ Você está cansado de...
 ---
 
 ### Solução (Seção 3)
-**Objetivo**: Apresentar o curso como a solução
+**Objetivo**: Apresentar o curso como a solução com linguagem de "veneno"
 
 #### Headline
 ```
-Apresentamos: [Nome do Curso]
-O único curso Full Stack que ensina você a usar IA do jeito certo
+Apresentamos: Veneno.dev
+O Veneno Completo para Desenvolvedores que Querem se Destacar
 ```
 
 #### Descrição
 ```
 Não se trata de deixar a IA fazer tudo por você.
-Trata-se de dominar desenvolvimento e usar IA para
-multiplicar sua produtividade e qualidade.
+Trata-se de dominar desenvolvimento e injetar o veneno certo
+para multiplicar sua produtividade e qualidade.
+
+Veneno sem treino não funciona. Mas veneno + treino te torna imbatível.
 
 Você vai aprender:
-✓ Frontend (Next.js, React) com IA
+✓ Frontend (Next.js, React) com IA como veneno
 ✓ Backend (Java, Spring) profissional
 ✓ Design sem ser designer (Stitch + Figma + IA)
 ✓ Git além do básico (rebase, conventional commits, automação)
 ✓ TDD com IA (testes antes do código)
 ✓ Documentação automática
 ✓ Fluxo completo: da ideia ao deploy
+
+O veneno completo. Do zero ao deploy profissional.
 ```
 
 #### Visual
@@ -203,42 +211,43 @@ O Que Você Vai Aprender
 ---
 
 ### Diferenciais (Seção 6)
-**Objetivo**: Destacar o que torna o curso único
+**Objetivo**: Destacar o que torna o curso único com linguagem forte
 
 #### Headline
 ```
-Por Que Este Curso é Diferente?
+Por Que Veneno.dev é Diferente?
 ```
 
 #### Cartões/Boxes
 
-**1. IA como Ferramenta de Performance**
-Não substituir você, mas multiplicar sua produtividade.
-Você aprende a programar DE VERDADE e usa IA para acelerar.
+**1. IA como Veneno de Performance**
+Não substituir você, mas multiplicar sua força.
+Você aprende a programar DE VERDADE e injeta IA como veneno para acelerar.
 
 **2. Java Puro Antes do Spring**
 Entenda o legado e os fundamentos.
-Diferencie o que é linguagem do que é framework.
+Diferencie o que é linguagem do que é framework. Treino antes do veneno.
 
 **3. Git Profissional**
 Não só "git add" e "git commit".
 Rebase, conventional commits, histórico limpo, automação com IA.
+Git de verdadeiro profissional.
 
 **4. Design Sem Sofrimento**
 Stitch + IA + Figma = layouts profissionais em minutos.
-Mesmo se você não é designer.
+Mesmo se você não é designer. O veneno certo no momento certo.
 
 **5. TDD com IA**
 Testes antes do código.
-IA cria testes, você desenvolve para passar neles.
+IA cria testes, você desenvolve para passar neles. Veneno que garante qualidade.
 
 **6. Metodologia Real**
 O mesmo processo que usamos em projetos reais.
-Documentação, planejamento, execução, deploy.
+Documentação, planejamento, execução, deploy. Não é teoria, é prática.
 
 **7. Sem Enrolação**
 Aulas diretas, práticas, com script preparado.
-Técnica de gravação para edição eficiente.
+Técnica de gravação para edição eficiente. Veneno puro, sem diluição.
 
 #### Visual
 - Ícones customizados para cada diferencial
@@ -247,25 +256,26 @@ Técnica de gravação para edição eficiente.
 ---
 
 ### Para Quem é Este Curso (Seção 7)
-**Objetivo**: Qualificar leads
+**Objetivo**: Qualificar leads com linguagem direta
 
 #### Headline
 ```
-Este Curso é Para Você Se...
+Veneno.dev é Para Você Se...
 ```
 
 #### Público-Alvo
-✓ Você quer aprender programação do jeito moderno (com IA)
-✓ Você é desenvolvedor júnior e quer acelerar sua produtividade
-✓ Você está em transição de carreira para tech
+✓ Você quer aprender programação do jeito moderno (com IA como veneno)
+✓ Você é desenvolvedor júnior e quer acelerar sua produtividade (ficar mais forte)
+✓ Você está em transição de carreira para tech (quer o veneno completo)
 ✓ Você quer dominar Full Stack (Frontend + Backend)
-✓ Você não sabe design mas precisa criar interfaces
+✓ Você não sabe design mas precisa criar interfaces (veneno certo resolve)
 ✓ Você quer aprender a usar IA no desenvolvimento (além de só copiar e colar)
+✓ Você está pronto para treinar duro e injetar o veneno certo
 
 #### Para Quem NÃO é
-✗ Quem procura "fórmula mágica" sem estudar
-✗ Quem quer que a IA faça tudo (não vai funcionar)
-✗ Quem não está disposto a praticar
+✗ Quem procura "fórmula mágica" sem estudar (veneno sem treino não funciona)
+✗ Quem quer que a IA faça tudo (não vai funcionar, você precisa treinar)
+✗ Quem não está disposto a praticar (veneno precisa de disciplina)
 
 ---
 
@@ -368,14 +378,14 @@ Invista no Seu Futuro Hoje
 
 **Pré-lançamento** (se aplicável):
 ```
-🚀 OFERTA DE LANÇAMENTO
+☠️ OFERTA DE LANÇAMENTO - VENENO COMPLETO
 
 De R$ 1.497 por apenas:
 
 R$ 997
 ou 12x de R$ 97
 
-Bônus exclusivos para os primeiros 50 alunos:
+Bônus exclusivos para os primeiros 50 que injetarem o veneno:
 ✓ Acesso vitalício ao curso
 ✓ Atualizações gratuitas
 ✓ Comunidade exclusiva no Discord
@@ -388,7 +398,7 @@ Bônus exclusivos para os primeiros 50 alunos:
 
 **Pós-lançamento**:
 ```
-INVESTIMENTO
+INVESTIMENTO - VENENO COMPLETO
 
 R$ 1.197
 ou 12x de R$ 117
@@ -400,10 +410,12 @@ Inclui:
 ✓ Certificado
 ✓ Suporte na comunidade
 ✓ Materiais complementares
+
+O veneno completo. Do zero ao deploy profissional.
 ```
 
 #### CTAs
-- Botão grande: "Quero Começar Agora"
+- Botão grande: "Quero o Veneno Completo"
 - Link: "Ainda tenho dúvidas" (leva para FAQ)
 
 ---
@@ -451,40 +463,43 @@ Sim, comunidade exclusiva no Discord para tirar dúvidas.
 ---
 
 ### CTA Final (Seção 13)
-**Objetivo**: Última chance de converter
+**Objetivo**: Última chance de converter com linguagem forte
 
 #### Headline
 ```
-Pronto Para Multiplicar Sua Produtividade com IA?
+Está Pronto para Injetar o Veneno?
 ```
 
 #### Texto
 ```
 Junte-se a centenas de desenvolvedores que já estão
-programando de forma mais rápida e inteligente.
+mais fortes, mais rápidos, mais produtivos.
+Veneno + Treino = Desenvolvedor Imbatível.
 ```
 
 #### CTA
-- Botão gigante: "Começar Agora"
+- Botão gigante: "Quero o Veneno Completo"
 - Abaixo: "Garantia de 7 dias • Acesso imediato • Suporte incluído"
 
 ---
 
 ### Footer
+- Logo Veneno.dev com caveira
 - Links úteis (Termos, Privacidade, Contato)
 - Redes sociais
 - Email de contato
 - CNPJ (se aplicável)
-- "© 2025 [Nome do Produto]. Todos os direitos reservados."
+- "© 2025 Veneno.dev. Todos os direitos reservados."
+- Tagline: "O veneno que você precisa para se destacar."
 
 ---
 
 ## Elementos Técnicos
 
 ### SEO
-- **Title**: "[Nome do Curso] - Aprenda Full Stack com IA | Frontend + Backend"
-- **Meta Description**: "Domine desenvolvimento Full Stack usando IA. Next.js, Java, Spring, Docker. Do zero ao deploy. 70h de conteúdo prático. Garantia de 7 dias."
-- **Keywords**: curso full stack, programação com IA, next.js, java, spring boot, desenvolvimento com inteligência artificial
+- **Title**: "Veneno.dev - O Veneno Completo para Desenvolvedores Full Stack | IA + Next.js + Java"
+- **Meta Description**: "Veneno.dev: O curso que transforma desenvolvedores. Full Stack com IA. Next.js, Java, Spring, Docker. Do zero ao deploy. 70h de conteúdo prático. Garantia de 7 dias."
+- **Keywords**: veneno.dev, curso full stack, programação com IA, next.js, java, spring boot, desenvolvimento com inteligência artificial, veneno para desenvolvedor
 
 ### Tracking
 - Google Analytics 4

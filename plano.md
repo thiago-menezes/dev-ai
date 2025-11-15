@@ -1,17 +1,21 @@
-# Plano Estratégico do Produto
+# Plano Estratégico - Veneno.dev
 
 ## Visão Geral
+**Veneno.dev** - O veneno completo para desenvolvedores que querem se destacar.
+
 Curso completo de desenvolvimento Full Stack com forte diferencial em **Inteligência Artificial aplicada ao desenvolvimento**, combinando Frontend (Next.js), Backend (Java/Spring), Design, Git e metodologias modernas de trabalho com IA.
+
+**Conceito**: Assim como veneno (suplementos/esteroides) na academia, IA é o veneno que multiplica a força do desenvolvedor. Veneno sem treino não funciona. Mas veneno + treino = desenvolvedor imbatível.
 
 ## Proposta de Valor Única (UVP)
 
 ### Diferenciais Competitivos
-1. **IA como Ferramenta de Performance** - Não ensinar IA para substituir o desenvolvedor, mas para multiplicar sua produtividade
+1. **IA como Veneno de Performance** - Não ensinar IA para substituir o desenvolvedor, mas para multiplicar sua força e produtividade
 2. **Fluxo Completo Real** - Do levantamento de requisitos ao deploy, passando por design e desenvolvimento
 3. **Git Profissional** - Commits automatizados, rebase, conventional commits com IA
-4. **Design sem Sofrimento** - Stitch + Figma + IA para criar interfaces rapidamente
-5. **Java Puro antes do Spring** - Entender o legado e fundamentos antes dos facilitadores
-6. **TDD com IA** - Desenvolvimento guiado por testes com auxílio de inteligência artificial
+4. **Design sem Sofrimento** - Stitch + Figma + IA para criar interfaces rapidamente (veneno certo no momento certo)
+5. **Java Puro antes do Spring** - Entender o legado e fundamentos antes dos facilitadores (treino antes do veneno)
+6. **TDD com IA** - Desenvolvimento guiado por testes com auxílio de inteligência artificial (veneno que garante qualidade)
 
 ## Público-Alvo
 
@@ -169,12 +173,14 @@ Docker → Banco → Docs/Tests → Security
 6. 🔜 Definir estratégia de divulgação
 
 ### Ambos
-1. Definir nome do produto
+1. ✅ Definir nome do produto: **Veneno.dev**
 2. Testar processo de gravação e edição (com João editando)
 3. Alinhar formato final das aulas
-4. Criar landing page
+4. Criar landing page com branding Veneno.dev
 5. Desenvolver estratégia de tráfego pago
-6. Criar material de divulgação (ebook, posts, etc.)
+6. Criar material de divulgação (ebook, posts, etc.) com linguagem "veneno"
+7. Criar logo com caveira (skull) estilizada
+8. Definir paleta de cores: Preto, verde tóxico/neon, branco
 
 ## Riscos e Mitigações
 
@@ -216,7 +222,8 @@ Curso completo com módulos essenciais
 - CAC (custo de aquisição) vs LTV (valor do aluno)
 
 ### Objetivos
-- Posicionar como **referência em IA aplicada ao desenvolvimento**
-- Construir comunidade engajada
-- Gerar cases de sucesso de alunos
+- Posicionar **Veneno.dev** como referência em IA aplicada ao desenvolvimento
+- Construir comunidade engajada de desenvolvedores "venenosos"
+- Gerar cases de sucesso de alunos que "injetaram o veneno"
 - Escalabilidade do modelo
+- Branding forte e memorável (caveira, linguagem impactante)
